@@ -52,7 +52,7 @@ presence** off-site builds authority and referral traffic:
 
 ## 5. Ongoing content — the compounding engine
 
-You now have 12 articles. The goal is a **steady cadence**, not a one-off burst.
+You now have 14 articles. The goal is a **steady cadence**, not a one-off burst.
 Fresh, useful content targeting real questions builds topical authority over months.
 
 - [ ] Publish **1–2 new articles per month**. Adding an article is just dropping a Markdown file in `content/insights/` (see README) — no code changes.
@@ -65,9 +65,9 @@ Fresh, useful content targeting real questions builds topical authority over mon
 - "Management buyout (MBO) in the UAE: how it works"
 - "How to value a startup vs. an established business"
 - "Cross-border M&A into the UAE: a guide for foreign acquirers"
-- "Debt vs. equity financing for UAE companies"
+- ~~"Debt vs. equity financing for UAE companies"~~ ✅ published Aug 2026 (`debt-vs-equity-financing-uae`)
 - "Confidentiality in a business sale: how NDAs protect you"
-- "Signs it's the right time to sell your business"
+- ~~"Signs it's the right time to sell your business"~~ ✅ published Aug 2026 (`signs-right-time-to-sell-your-business`)
 - Sector deep-dives: healthcare M&A, real estate platform deals, energy-transition financing in the GCC.
 
 ## 6. Backlinks & authority (the hardest, highest-value)
