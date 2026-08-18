@@ -1,0 +1,12 @@
+# Netlify build configuration for the RV Capital – FZCO website.
+#
+# The site is a Next.js static export (`output: 'export'` in next.config.mjs),
+# so the build produces a plain `out/` folder with no server runtime.
+
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[build.environment]
+  # Pin Node to an LTS release. Next 14 requires >= 18.17; 20 is the safe default.
+  NODE_VERSION = "20"
