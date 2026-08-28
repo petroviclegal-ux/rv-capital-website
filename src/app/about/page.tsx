@@ -76,6 +76,45 @@ export default function AboutPage() {
         <Breadcrumbs items={[{ name: 'About', path: '/about/' }]} />
       </BreadcrumbBar>
 
+      {/* FOUNDERS */}
+      <section className="bg-ink-800 text-bone">
+        <Container>
+          <div className="py-24">
+            <Reveal className="max-w-3xl">
+              <Eyebrow>Founders</Eyebrow>
+              <h2 className="mt-5 font-serif text-3xl leading-tight sm:text-4xl">
+                The founders behind RV Capital.
+              </h2>
+              <p className="mt-6 leading-relaxed text-bone/70">
+                The firm is led by its founders, who have worked together on some of the
+                most demanding transactions in their markets — and who remain personally
+                involved in every mandate RV Capital takes on.
+              </p>
+            </Reveal>
+
+            <div className="mt-14 grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
+              {founders.map((f, i) => (
+                <Reveal key={f.name} delay={i * 80}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={f.photo}
+                    alt={`${f.name}, ${f.role} of RV Capital`}
+                    className="aspect-[3/4] w-full object-cover"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                  <h3 className="mt-6 font-serif text-xl">{f.name}</h3>
+                  <p className="mt-1 text-xs uppercase tracking-[0.16em] text-brass">
+                    {f.role}
+                  </p>
+                  <p className="mt-4 text-sm leading-relaxed text-bone/65">{f.bio}</p>
+                </Reveal>
+              ))}
+            </div>
+          </div>
+        </Container>
+      </section>
+
       {/* WHO WE ARE */}
       <Section>
         <Container>
@@ -180,45 +219,6 @@ export default function AboutPage() {
           </Reveal>
         </Container>
       </Section>
-
-      {/* FOUNDERS */}
-      <section className="bg-ink-800 text-bone">
-        <Container>
-          <div className="py-24">
-            <Reveal className="max-w-3xl">
-              <Eyebrow>Founders</Eyebrow>
-              <h2 className="mt-5 font-serif text-3xl leading-tight sm:text-4xl">
-                The founders behind RV Capital.
-              </h2>
-              <p className="mt-6 leading-relaxed text-bone/70">
-                The firm is led by its founders, who have worked together on some of the
-                most demanding transactions in their markets — and who remain personally
-                involved in every mandate RV Capital takes on.
-              </p>
-            </Reveal>
-
-            <div className="mt-14 grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
-              {founders.map((f, i) => (
-                <Reveal key={f.name} delay={i * 80}>
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img
-                    src={f.photo}
-                    alt={`${f.name}, ${f.role} of RV Capital`}
-                    className="aspect-[3/4] w-full object-cover"
-                    loading="lazy"
-                    decoding="async"
-                  />
-                  <h3 className="mt-6 font-serif text-xl">{f.name}</h3>
-                  <p className="mt-1 text-xs uppercase tracking-[0.16em] text-brass">
-                    {f.role}
-                  </p>
-                  <p className="mt-4 text-sm leading-relaxed text-bone/65">{f.bio}</p>
-                </Reveal>
-              ))}
-            </div>
-          </div>
-        </Container>
-      </section>
 
       {/* LICENCE / FACTS */}
       <section className="bg-bone-200">
