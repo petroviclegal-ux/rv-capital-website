@@ -22,6 +22,27 @@ export const metadata: Metadata = buildMetadata({
   ],
 });
 
+const founders = [
+  {
+    name: 'Milutin Nikolić',
+    role: 'Founder',
+    photo: '/images/team/milutin-nikolic.jpg',
+    bio: 'Milutin has over 25 years of principal investment and investment banking experience across Europe, the United States, Asia and Africa. He is a co-founder of Invigo and of Hefestos Capital, the leading investment banking firm in Southeast Europe, and has been the key dealmaker on many of the region’s landmark transactions. He holds a BSc from the universities of St. Gallen and Lausanne, and an MBA from Harvard University.',
+  },
+  {
+    name: 'Pavle Kavran',
+    role: 'Founder',
+    photo: '/images/team/pavle-kavran.jpg',
+    bio: 'Pavle has over 20 years of principal investment, structured products and investment banking experience across Southeast Europe, the Middle East, Asia, the United States and Africa. Together with Milutin, he founded Invigo and Hefestos Capital, advising on many of the largest transactions in Southeast Europe. He holds a BA from Clark University.',
+  },
+  {
+    name: 'Stefan Petrović',
+    role: 'Founder',
+    photo: '/images/team/stefan-petrovic.jpg',
+    bio: 'Stefan focuses on mergers and acquisitions and special situations, advising clients across the full transaction lifecycle — from origination and structuring through negotiation and closing — with particular experience in complex, time-sensitive mandates. He is also a Partner at Hefestos Capital.',
+  },
+];
+
 const approach = [
   [
     'Due diligence',
@@ -159,6 +180,45 @@ export default function AboutPage() {
           </Reveal>
         </Container>
       </Section>
+
+      {/* FOUNDERS */}
+      <section className="bg-ink-800 text-bone">
+        <Container>
+          <div className="py-24">
+            <Reveal className="max-w-3xl">
+              <Eyebrow>Founders</Eyebrow>
+              <h2 className="mt-5 font-serif text-3xl leading-tight sm:text-4xl">
+                The founders behind RV Capital.
+              </h2>
+              <p className="mt-6 leading-relaxed text-bone/70">
+                The firm is led by its founders, who have worked together on some of the
+                most demanding transactions in their markets — and who remain personally
+                involved in every mandate RV Capital takes on.
+              </p>
+            </Reveal>
+
+            <div className="mt-14 grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
+              {founders.map((f, i) => (
+                <Reveal key={f.name} delay={i * 80}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={f.photo}
+                    alt={`${f.name}, ${f.role} of RV Capital`}
+                    className="aspect-[3/4] w-full object-cover"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                  <h3 className="mt-6 font-serif text-xl">{f.name}</h3>
+                  <p className="mt-1 text-xs uppercase tracking-[0.16em] text-brass">
+                    {f.role}
+                  </p>
+                  <p className="mt-4 text-sm leading-relaxed text-bone/65">{f.bio}</p>
+                </Reveal>
+              ))}
+            </div>
+          </div>
+        </Container>
+      </section>
 
       {/* LICENCE / FACTS */}
       <section className="bg-bone-200">
