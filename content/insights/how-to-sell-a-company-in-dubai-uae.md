@@ -35,7 +35,7 @@ This stage often takes a few months, and it is time well spent. Fixing issues be
 
 ## 3. Establish a defensible valuation
 
-You need a clear, method-driven view of what your business is worth before you go to market. Valuation typically blends several approaches — discounted cash flow, comparable company multiples, and precedent transactions — cross-checked against what acquirers in your sector are actually paying. The goal is not a single number but a defensible **range** you can justify in negotiation. Our guide to [business valuation methods](/insights/business-valuation-methods-uae/) explains how each approach works.
+You need a clear, method-driven view of what your business is worth before you go to market. Valuation typically blends several approaches — discounted cash flow, comparable company multiples, and precedent transactions — cross-checked against what acquirers in your sector are actually paying. The goal is not a single number but a defensible **range** you can justify in negotiation. Our guide to [business valuation methods](/insights/business-valuation-methods-uae/) explains how each approach works, and [how much is my business worth](/insights/how-much-is-my-business-worth-uae/) covers the multiples buyers actually pay.
 
 ## 4. Prepare marketing materials and a data room
 

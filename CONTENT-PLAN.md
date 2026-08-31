@@ -26,7 +26,7 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
 
 ## Priority backlog (ordered by volume × intent × winnability)
 
-### 1. `how-much-is-my-business-worth-uae` — the valuation magnet
+### 1. `how-much-is-my-business-worth-uae` — the valuation magnet ✅ published Aug 2026
 - **Target queries (confirmed autocomplete):** "how much is my business worth",
   "how much is my business worth calculator", "business valuation calculator",
   "how much is my company worth", "business valuation services uae"

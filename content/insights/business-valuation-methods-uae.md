@@ -13,7 +13,7 @@ relatedServices:
   - business-sale-acquisition
 ---
 
-"What is my business worth?" is the first question most owners ask when they consider a sale or bring in investors — and the honest answer is that value is a **range**, not a single number, and it depends on who is buying and why. Still, that range is not arbitrary. It is built with established methods. This guide explains the main approaches used to value companies in the UAE, and what actually drives the figure.
+"What is my business worth?" is the first question most owners ask when they consider a sale or bring in investors — and the honest answer is that value is a **range**, not a single number, and it depends on who is buying and why. Still, that range is not arbitrary. It is built with established methods. This guide explains the main approaches used to value companies in the UAE, and what actually drives the figure. If you want the numbers first, the companion guide on [how much your business is worth](/insights/how-much-is-my-business-worth-uae/) covers the multiples buyers actually pay, with a worked example.
 
 ## Value is a range, and depends on the buyer
 
