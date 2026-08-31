@@ -6,7 +6,7 @@ import { Container, Section, CTALink } from '@/components/ui';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { PageHero, BreadcrumbBar } from '@/components/PageHero';
 import { JsonLd } from '@/components/JsonLd';
-import { articleSchema } from '@/lib/structured-data';
+import { articleSchema, faqSchema } from '@/lib/structured-data';
 import {
   getAllArticleSlugs,
   getArticle,
@@ -62,6 +62,7 @@ export default async function ArticlePage({ params }: { params: Params }) {
           datePublished: article.date,
         })}
       />
+      {article.faqs.length > 0 && <JsonLd data={faqSchema(article.faqs)} />}
 
       <PageHero
         image={article.image ?? '/images/services.jpg'}

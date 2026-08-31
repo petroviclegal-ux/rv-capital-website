@@ -31,7 +31,40 @@ export type ArticleFrontmatter = {
 };
 
 export type ArticleMeta = ArticleFrontmatter & { slug: string };
-export type Article = ArticleMeta & { html: string };
+export type ArticleFaq = { question: string; answer: string };
+export type Article = ArticleMeta & { html: string; faqs: ArticleFaq[] };
+
+/**
+ * Extract Q&A pairs from a trailing "## Frequently asked questions" section
+ * (each question a `### ` heading, the answer the prose below it) so article
+ * pages can emit FAQPage JSON-LD without any extra authoring work.
+ */
+function extractFaqs(markdown: string): ArticleFaq[] {
+  const sections = markdown.split(/\n## /);
+  const faqSection = sections.find((s) =>
+    s.toLowerCase().startsWith('frequently asked questions'),
+  );
+  if (!faqSection) return [];
+  const firstBreak = faqSection.indexOf('\n');
+  if (firstBreak === -1) return [];
+
+  const faqs: ArticleFaq[] = [];
+  const blocks = faqSection.slice(firstBreak + 1).split(/\n### /).slice(1);
+  for (const block of blocks) {
+    const newline = block.indexOf('\n');
+    if (newline === -1) continue;
+    const question = block.slice(0, newline).trim();
+    const answer = block
+      .slice(newline + 1)
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1') // links -> plain text
+      .replace(/\*\*([^*]+)\*\*/g, '$1')
+      .replace(/\*([^*]+)\*/g, '$1')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (question && answer) faqs.push({ question, answer });
+  }
+  return faqs;
+}
 
 function readSlugs(): string[] {
   if (!fs.existsSync(INSIGHTS_DIR)) return [];
@@ -73,7 +106,15 @@ export async function getArticle(slug: string): Promise<Article> {
     slug,
     ...(data as ArticleFrontmatter),
     html: String(file),
+    faqs: extractFaqs(content),
   };
+}
+
+/** Articles related to a service, for the service landing pages. */
+export function getArticlesForService(serviceSlug: string, count = 4): ArticleMeta[] {
+  return getAllArticles()
+    .filter((a) => a.relatedServices?.includes(serviceSlug))
+    .slice(0, count);
 }
 
 /** Return up to `count` other articles for a "related reading" block. */

@@ -95,10 +95,16 @@ export default function ServicesPage() {
                         {para}
                       </p>
                     ))}
-                    <div className="pt-2">
+                    <div className="flex flex-wrap items-center gap-6 pt-2">
                       <CTALink href="/contact/" variant="ghost">
                         Discuss {service.title.toLowerCase()}
                       </CTALink>
+                      <Link
+                        href={`/services/${service.slug}/`}
+                        className="text-sm font-sans uppercase tracking-[0.14em] text-brass-dark hover:text-brass"
+                      >
+                        More on {service.title} →
+                      </Link>
                     </div>
                   </Reveal>
                 </div>

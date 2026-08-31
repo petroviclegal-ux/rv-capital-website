@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { SITE_URL } from '@/lib/site';
-import { getAllArticleSlugs } from '@/lib/insights';
+import { getAllArticles } from '@/lib/insights';
+import { services } from '@/lib/services';
 
 // Generated automatically at build → /sitemap.xml (works with static export).
 export const dynamic = 'force-static';
@@ -25,12 +26,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: p.priority,
   }));
 
-  const articleEntries: MetadataRoute.Sitemap = getAllArticleSlugs().map((slug) => ({
-    url: new URL(`/insights/${slug}/`, SITE_URL).toString(),
+  const serviceEntries: MetadataRoute.Sitemap = services.map((s) => ({
+    url: new URL(`/services/${s.slug}/`, SITE_URL).toString(),
     lastModified: now,
+    changeFrequency: 'monthly',
+    priority: 0.85,
+  }));
+
+  const articleEntries: MetadataRoute.Sitemap = getAllArticles().map((a) => ({
+    url: new URL(`/insights/${a.slug}/`, SITE_URL).toString(),
+    lastModified: new Date(a.date).toISOString(),
     changeFrequency: 'yearly',
     priority: 0.6,
   }));
 
-  return [...staticEntries, ...articleEntries];
+  return [...staticEntries, ...serviceEntries, ...articleEntries];
 }

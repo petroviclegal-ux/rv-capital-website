@@ -9,7 +9,9 @@
  */
 
 // TODO(client): confirm the exact production domain (www vs non-www) before launch.
-export const SITE_URL = 'https://www.rvcap.ae';
+// Apex domain is the Netlify primary (www 301-redirects to it), so canonicals,
+// sitemap and structured data must all use the apex or Google refuses to index.
+export const SITE_URL = 'https://rvcap.ae';
 
 export const site = {
   name: 'RV Capital',
