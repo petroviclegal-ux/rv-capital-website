@@ -76,7 +76,7 @@ Buyers in the UAE pay more, sometimes much more, for:
 
 ## How much is my business worth to sell?
 
-A valuation on paper and a price achieved in a sale are related but different numbers. The paper valuation anchors your expectations. The price is made by competition: a single buyer who approached you directly will price at the bottom of the range, because nothing pushes them higher. A confidential process that brings three credible buyers to the table routinely closes above the midpoint, on better terms. The step-by-step of running that process is covered in our guide to [selling a company in the UAE](/insights/how-to-sell-a-company-in-dubai-uae/), and the costs involved in [what it costs to sell a business](/insights/cost-to-sell-a-business-uae/).
+A valuation on paper and a price achieved in a sale are related but different numbers. The paper valuation anchors your expectations. The price is made by competition: a [single buyer who approached you directly](/insights/someone-wants-to-buy-my-business/) will price at the bottom of the range, because nothing pushes them higher. A confidential process that brings three credible buyers to the table routinely closes above the midpoint, on better terms. The step-by-step of running that process is covered in our guide to [selling a company in the UAE](/insights/how-to-sell-a-company-in-dubai-uae/), and the costs involved in [what it costs to sell a business](/insights/cost-to-sell-a-business-uae/).
 
 Timing also carries weight. Value is highest while performance is rising and the owner has no pressure to sell. If you are weighing whether this is the moment, see the [signs it is the right time to sell](/insights/signs-right-time-to-sell-your-business/).
 

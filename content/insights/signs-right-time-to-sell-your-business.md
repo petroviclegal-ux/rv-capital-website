@@ -34,7 +34,7 @@ Buyers pay for the future, not the past. The strongest signals that your busines
 - **Your sector is consolidating.** When strategic buyers are actively acquiring — regionally or globally — competitive tension does wonders for terms. One buyer is a negotiation; several are an auction.
 - **Multiples are elevated.** If comparable businesses are changing hands at healthy valuations, that environment will not last forever.
 - **Capital is available.** When banks and funds are lending and investing freely, buyers can pay more and close faster.
-- **You are receiving credible unsolicited approaches.** A serious approach is a signal of appetite — but rarely the best price. An unsolicited offer should usually be the *start* of a process, not the end of one; this is precisely where an [M&A advisor](/insights/what-does-an-ma-advisor-do/) earns their fee by creating competition.
+- **You are receiving credible unsolicited approaches.** A serious approach is a signal of appetite — but rarely the best price. An unsolicited offer should usually be the *start* of a process, not the end of one; this is precisely where an [M&A advisor](/insights/what-does-an-ma-advisor-do/) earns their fee by creating competition. Our guide on [what to do when someone wants to buy your business](/insights/someone-wants-to-buy-my-business/) covers the first steps after an approach.
 
 ## Personal signs: the honest audit
 

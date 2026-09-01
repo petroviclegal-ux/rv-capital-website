@@ -39,7 +39,7 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
 - **FAQ seeds:** "How much is my business worth to sell?", "Is there a business
   valuation calculator for the UAE?", "What multiple do businesses sell for in Dubai?"
 
-### 2. `someone-wants-to-buy-my-business` — the unsolicited-offer guide
+### 2. `someone-wants-to-buy-my-business` — the unsolicited-offer guide ✅ published Sep 2026
 - **Target queries (confirmed):** "someone wants to buy my business", "who wants
   to buy my business", "someone wants to buy into my business"
 - **Angle:** you received an approach — what it means, why an uncontested offer is
