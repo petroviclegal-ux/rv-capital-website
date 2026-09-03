@@ -74,4 +74,4 @@ Conversely, customer concentration, opaque accounts, owner dependence and unreso
 
 ## The takeaway
 
-A credible valuation blends several methods, reflects who the likely buyers are, and stands up to scrutiny in due diligence. It is the foundation of a confident negotiation. RV Capital prepares defensible valuations for owners across the UAE and GCC as the starting point of a sale or capital raise — [talk to us](/contact/) about your business.
+A credible valuation blends several methods, reflects who the likely buyers are, and stands up to scrutiny in due diligence. It is the foundation of a confident negotiation. RV Capital prepares defensible valuations for owners across the UAE and GCC as the starting point of a sale or a [capital raise](/insights/find-an-investor-for-your-business-uae/) — [talk to us](/contact/) about your business.

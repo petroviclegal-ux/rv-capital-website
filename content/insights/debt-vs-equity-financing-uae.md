@@ -37,7 +37,7 @@ The appeal is equally real: you keep 100% of your company, the cost is known in 
 
 ## How equity financing works in practice
 
-Equity means bringing in shareholders: a private equity firm, a family office, a strategic investor from your industry, or — for younger companies — venture investors. In exchange for capital you give up:
+Equity means bringing in shareholders: a private equity firm, a family office, a strategic investor from your industry, or — for younger companies — venture investors. Our guide on [how to find an investor for your business](/insights/find-an-investor-for-your-business-uae/) maps who actually invests in UAE companies and how to reach them. In exchange for capital you give up:
 
 - **A share of ownership**, fixed by the valuation you negotiate. The lower the valuation, the more of the company the same money costs you. This is where a defensible [business valuation](/insights/business-valuation-methods-uae/) matters enormously.
 - **Some control.** Serious investors expect board representation, information rights and consent over major decisions — new debt, acquisitions, executive hires, eventually an exit.

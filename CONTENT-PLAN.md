@@ -66,7 +66,7 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
   about layoffs — do not target those. The existing `corporate-restructuring-uae`
   targets advisors' language; this one targets the owner under pressure. Cross-link.
 
-### 5. `find-an-investor-for-your-business-uae`
+### 5. `find-an-investor-for-your-business-uae` ✅ published Sep 2026
 - **Target queries (confirmed):** "find an investor for my business", "looking for
   an investor for my business", "how to raise capital for a small business"
 - **Angle:** the realistic map — banks vs. private investors vs. family offices vs.
