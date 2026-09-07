@@ -14,7 +14,7 @@ relatedServices:
   - ma-advisory
 ---
 
-A management buyout, or MBO, is a transaction in which a company's existing management team acquires the business — usually from the current owner or shareholders, and typically with external financing. For owners seeking an exit and for ambitious managers seeking ownership, an MBO can be an attractive path. Here is how MBOs work in the UAE, and what both sides should understand.
+A management buyout, or MBO, is a transaction in which a company's existing management team acquires the business — usually from the current owner or shareholders, and typically with external financing. For owners seeking an exit and for ambitious managers seeking ownership, an MBO can be an attractive path. A related route, where one owner acquires another's stake, is covered in our [partner buyout guide](/insights/partner-buyout-uae/). Here is how MBOs work in the UAE, and what both sides should understand.
 
 ## What an MBO is — and why it appeals
 

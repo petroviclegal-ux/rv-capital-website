@@ -78,7 +78,7 @@ Each free zone — IFZA, DMCC, JAFZA, DIFC, ADGM and the rest — runs its own s
 
 Sometimes the goal is not to bring in outsiders at all, but to reorganise who owns what. Common equity-restructuring moves in the UAE:
 
-- **Partner buyouts** — the company or the remaining shareholders acquire an exiting partner's stake, often funded over time from the company's own cash flows.
+- **Partner buyouts** — the company or the remaining shareholders acquire an exiting partner's stake, often funded over time from the company's own cash flows. Our [partner buyout guide](/insights/partner-buyout-uae/) covers the valuation, agreement and funding in detail.
 - **Holding-company structures** — consolidating operating companies under a single holding entity (frequently in ADGM, DIFC or a free zone) to simplify governance, enable dividends to flow efficiently, and prepare for investment or eventual sale.
 - **Management equity** — transferring or issuing a stake to key managers, as a retention tool or the first step of a [management buyout](/insights/management-buyout-mbo-uae/).
 - **Debt-to-equity conversions** — in stressed situations, converting shareholder or lender debt into equity to repair the balance sheet, usually as part of a wider [restructuring](/insights/corporate-restructuring-uae/).

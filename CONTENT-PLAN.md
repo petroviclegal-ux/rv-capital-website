@@ -48,7 +48,7 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
   Natural funnel into sell-side advisory. Link hard to `signs-right-time-to-sell`,
   `how-to-sell-a-company-in-dubai-uae`, valuation articles.
 
-### 3. `partner-buyout-uae`
+### 3. `partner-buyout-uae` ✅ published Sep 2026
 - **Target queries (confirmed):** "partner buyout", "partner buyout agreement",
   "how to buy out my business partner", "partner buyout loan", "partner buyout
   calculator"
