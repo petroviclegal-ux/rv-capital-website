@@ -52,7 +52,7 @@ The honest comparison is not "interest rate vs. no interest rate":
 - **Debt is cheaper if things go well** — you repay a fixed amount and keep all the upside. But it concentrates risk: obligations stay fixed while revenues move.
 - **Equity is cheaper if things go badly** — there is nothing to repay. But it quietly becomes very expensive when the business grows: the stake you sold compounds in value alongside everything you build.
 - **Tax treatment differs.** Interest is generally deductible; returns to shareholders are not. Since the introduction of UAE corporate tax this gap has real value, though deduction limits apply.
-- **Flexibility differs.** Debt covenants constrain how you run the business day to day; equity investors constrain the big strategic decisions.
+- **Flexibility differs.** Debt covenants constrain how you run the business day to day; equity investors constrain the big strategic decisions. And if existing repayments are already straining the cash flow, read our guide to [debt restructuring in the UAE](/insights/debt-restructuring-uae/) before adding either.
 
 ## The hybrid middle ground
 

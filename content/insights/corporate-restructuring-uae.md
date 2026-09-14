@@ -37,7 +37,7 @@ This addresses how the business runs. It may involve refocusing on core activiti
 
 ### Financial restructuring
 
-This addresses how the business is funded. It may involve rescheduling or refinancing debt, negotiating new terms with lenders, raising fresh equity or debt, converting debt to equity, or reorganising the group's legal and capital structure. The goal is to align the company's financing with the cash flows it can realistically generate.
+This addresses how the business is funded. It may involve rescheduling or refinancing debt, negotiating new terms with lenders, raising fresh equity or debt, converting debt to equity, or reorganising the group's legal and capital structure. The goal is to align the company's financing with the cash flows it can realistically generate. For the owner's practical playbook when repayments are the immediate problem, see our guide to [debt restructuring in the UAE](/insights/debt-restructuring-uae/).
 
 Operational and financial measures reinforce each other: a better-run business is easier to refinance, and a sustainable capital structure gives management the room to execute operational change.
 

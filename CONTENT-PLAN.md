@@ -57,7 +57,7 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
   `selling-or-buying-shares-in-a-uae-company` (already ranking #7 for "selling
   shares in a UAE company" — link from it) and `management-buyout-mbo-uae`.
 
-### 4. `debt-restructuring-uae` — restructuring in the language owners use
+### 4. `debt-restructuring-uae` — restructuring in the language owners use ✅ published Sep 2026
 - **Target queries (confirmed):** "debt restructuring dubai", plus problem phrases:
   "can't pay business loan uae", "company in financial trouble what to do"
 - **Angle:** options when cash is tight — bank negotiation, rescheduling,
