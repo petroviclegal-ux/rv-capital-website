@@ -14,7 +14,7 @@ relatedServices:
   - business-sale-acquisition
 ---
 
-Due diligence is the investigation you carry out before buying a business — the process of confirming that what you are paying for is what you are actually getting. In the UAE, with its mix of free-zone and mainland entities, foreign-ownership rules and fast-moving private markets, thorough diligence is not optional. This checklist sets out the areas a serious buyer should examine, and why each matters.
+Due diligence is the investigation you carry out before buying a business — the process of confirming that what you are paying for is what you are actually getting. In the UAE, with its mix of free-zone and mainland entities, foreign-ownership rules and fast-moving private markets, thorough diligence is not optional. This checklist sets out the areas a serious buyer should examine, and why each matters. If you are still at the searching stage, start with our guide to [buying a business in Dubai](/insights/buying-a-business-in-dubai-guide/), which covers how to read the market before you commit to a target.
 
 ## Why due diligence matters
 

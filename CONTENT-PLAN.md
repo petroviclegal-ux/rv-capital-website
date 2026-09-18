@@ -74,7 +74,7 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
   how an advisor runs a capital raise. Feeds `corporate-finance-capital-raising`
   service page. Link to `debt-vs-equity-financing-uae`.
 
-### 6. `buying-a-business-in-dubai-guide` — catch the listing searchers
+### 6. `buying-a-business-in-dubai-guide` — catch the listing searchers ✅ published Sep 2026
 - **Target queries (confirmed):** "buy a business in dubai", "businesses for sale
   in dubai", "business for sale in dubai uae", "small business for sale in dubai"
 - **Angle:** these searchers want listings; the winnable angle is the step after —

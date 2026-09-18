@@ -45,7 +45,7 @@ A **buy-side advisor** represents the acquirer. The mandate is different in kind
 
 ### Target search and screening
 
-For acquirers without a specific target, the advisor maps the market — often using research the buyer cannot easily do alone, particularly in the UAE where private-company information is scarce — screens candidates against the acquisition criteria, and makes discreet approaches. Many of the best acquisitions are of companies that were never formally for sale.
+For acquirers without a specific target, the advisor maps the market — often using research the buyer cannot easily do alone, particularly in the UAE where private-company information is scarce — screens candidates against the acquisition criteria, and makes discreet approaches. Many of the best acquisitions are of companies that were never formally for sale; our guide to [buying a business in Dubai](/insights/buying-a-business-in-dubai-guide/) explains why the listed market is only the surface.
 
 ### Valuation and deal discipline
 
