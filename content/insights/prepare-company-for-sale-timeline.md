@@ -14,7 +14,7 @@ relatedServices:
   - market-research-due-diligence
 ---
 
-The single biggest driver of a successful sale is not timing the market — it is preparation. Businesses that come to market well-organised, with clean numbers and reduced risk, sell for more, sell faster, and are far more likely to actually complete. The work is best started around a year ahead. Here is a practical 12-month timeline.
+The single biggest driver of a successful sale is not timing the market — it is preparation. Businesses that come to market well-organised, with clean numbers and reduced risk, sell for more, sell faster, and are far more likely to actually complete. The work is best started around a year ahead. Here is a practical 12-month timeline. If you do not have a year, our guide on [selling a business fast](/insights/sell-my-business-fast-uae/) compresses the same logic into weeks.
 
 ## 12–9 months out: strategy and financial foundations
 

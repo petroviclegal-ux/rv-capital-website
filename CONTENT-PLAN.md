@@ -82,7 +82,7 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
   never listed (buy-side search), licence/visa transfer basics. Funnel into
   buy-side advisory and `buying-a-business-uae-due-diligence-checklist`.
 
-### 7. `sell-my-business-fast-uae` — the urgency searcher
+### 7. `sell-my-business-fast-uae` — the urgency searcher ✅ published Sep 2026
 - **Target queries (confirmed):** "sell my business fast", "sell my company
   quickly", "sell my company with debts"
 - **Angle:** honest guide to speed vs. price trade-off; what "fast" realistically

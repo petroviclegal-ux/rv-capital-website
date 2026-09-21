@@ -71,7 +71,7 @@ At completion, conditions are satisfied, funds are transferred, and ownership pa
 
 ## How long does it take?
 
-A typical sell-side process in the UAE runs **six to twelve months** from mandate to completion, though timing varies with size, complexity, the number of buyers and the approvals required. Preparation before launch is the biggest lever on speed.
+A typical sell-side process in the UAE runs **six to twelve months** from mandate to completion, though timing varies with size, complexity, the number of buyers and the approvals required. Preparation before launch is the biggest lever on speed; if your circumstances demand a shorter timetable, see our guide on [selling a business fast](/insights/sell-my-business-fast-uae/).
 
 ## The takeaway
 
