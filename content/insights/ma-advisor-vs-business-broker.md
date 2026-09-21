@@ -61,6 +61,26 @@ Ask yourself:
 
 In practice, titles are not regulated consistently, and some firms describe themselves as advisors while offering a broker-style service (or vice versa). Look past the label at the actual process: Does the firm run a competitive process or simply list the business? Does it build a rigorous valuation and structure the deal, or just introduce a buyer? Does it have genuine reach to the buyers who will pay the most? Those questions matter more than the name on the door.
 
+## Looking for a business broker in Dubai?
+
+Most owners typing "business broker Dubai" into a search bar want one thing: someone to sell their company. Whether a broker is the right someone depends on the company. Brokers in Dubai typically work off listings: your business is placed on portals, enquiries are fielded, and the fee is a commission on the sale, sometimes with an upfront listing charge. For small, owner-operated businesses (a cafe, a salon, a trading licence with modest revenue) that model fits, and it is how most of the visible "businesses for sale in Dubai" market works.
+
+For an established company with real profits, staff and contracts, listing publicly is usually the wrong first move: it signals the sale to employees, customers and competitors, and it attracts browsers rather than the specific buyers who would pay the most. There the advisory model earns its keep, with a confidential process, a [defensible valuation](/insights/how-much-is-my-business-worth-uae/) and directly approached, qualified buyers, as described in [how to sell a company in the UAE](/insights/how-to-sell-a-company-in-dubai-uae/). The honest test: if confidentiality and price matter more to you than convenience, you are looking for an advisor, whatever the search bar was told.
+
+## Frequently asked questions
+
+### What is the difference between a business broker and an M&A advisor?
+
+A broker lists your business and connects you with enquirers, for a commission. An M&A advisor runs the whole transaction: valuation, confidential marketing to selected buyers, competitive tension, negotiation and execution through to closing. The broker model suits small owner-run businesses; the advisory model suits companies where price and confidentiality justify a managed process.
+
+### Do I need a business broker to sell my business in Dubai?
+
+For a small business with a straightforward transfer, a reputable broker is often sufficient. For a company with meaningful profit, employees and contracts, a public listing tends to cost more in signalling and weak offers than it saves in fees, and a confidential advisory process usually achieves a better result.
+
+### How much does a business broker charge in Dubai?
+
+Brokers usually charge a commission on the completed sale, and some add an upfront listing or marketing fee; percentages are higher on smaller deals. Advisory fees run differently, combining a modest retainer with a success fee on completion, so most of the cost lands only if the sale happens. Ask any firm for its full fee structure in writing before signing a mandate.
+
 ## The takeaway
 
 Business brokers and M&A advisors both help owners sell — but they serve different transactions. For larger, more complex or cross-border sales where value hinges on competition, structuring and negotiation, an M&A advisor is usually the right choice. RV Capital advises owners on sell-side transactions across the UAE and GCC; [speak with us](/contact/) to discuss which approach fits your business.

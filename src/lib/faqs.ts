@@ -7,6 +7,11 @@ export type Faq = { question: string; answer: string };
 
 export const faqs: Faq[] = [
   {
+    question: 'I want to sell my business in Dubai. Where do I start?',
+    answer:
+      'Start before any buyer conversation: be clear about why you are selling, get your financials and corporate documents in order, and establish a defensible value range for the company. From there, a confidential process approaches selected buyers in parallel and creates the competition that protects your price. The first step is a confidential conversation about your objectives, with no obligation attached.',
+  },
+  {
     question: 'How much does it cost to sell a business in the UAE?',
     answer:
       'Advisory fees for a company sale are usually a combination of a modest monthly retainer and a success fee payable on completion, expressed as a percentage of transaction value. The exact structure depends on the size and complexity of the deal. We agree fees transparently at the outset so there are no surprises, and the bulk of our compensation is tied to a successful outcome.',

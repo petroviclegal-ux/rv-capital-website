@@ -37,7 +37,7 @@ export const services: Service[] = [
       'For owners selling a company and investors acquiring one in the UAE and GCC.',
     body: [
       'For business owners in the UAE and wider GCC who are considering a sale, we provide end-to-end guidance: preparing the company for market, establishing a defensible valuation, identifying and qualifying the right acquirers, and running a competitive, confidential process that maximises value and certainty of completion. Selling a business is often a once-in-a-lifetime decision, and we manage it with the care that deserves.',
-      'For investors and strategic acquirers, we help you find, evaluate and acquire the right business — sourcing opportunities, assessing commercial and financial fundamentals, structuring the offer, and negotiating terms. Whether you are an entrepreneur exiting a company you built or a group expanding through acquisition, we bring institutional rigour to a market where much of the deal flow is private and relationship-driven.',
+      'For investors and strategic acquirers, we help you find, evaluate and acquire the right business — sourcing opportunities, assessing commercial and financial fundamentals, structuring the offer, and negotiating terms. Whether you are an entrepreneur exiting a company you built or a group expanding through acquisition, we bring institutional rigour to a market where much of the deal flow is private and relationship-driven. If you have been thinking "I want to sell my business", this is the conversation to have first.',
     ],
     scope: [
       'Company sale preparation',
@@ -53,7 +53,7 @@ export const services: Service[] = [
       'Operational and financial restructuring, reorganisation and stakeholder negotiation.',
     body: [
       'When a business faces financial stress, an over-leveraged balance sheet, or the need to reorganise, we advise on operational and financial restructuring plans that restore stability and preserve value. We work alongside management and shareholders to diagnose the underlying drivers, model realistic scenarios, and design a plan that stakeholders can support.',
-      'Our restructuring work spans balance-sheet reorganisation, debt rescheduling and negotiation with lenders and creditors, carve-outs and divestitures of non-core assets, and the operational changes needed to return a business to a sustainable footing. Restructuring situations are sensitive and time-critical; we bring a calm, structured process and the credibility to negotiate constructively with all parties around the table.',
+      'Our restructuring work spans balance-sheet reorganisation, debt rescheduling and negotiation with lenders and creditors, carve-outs and divestitures of non-core assets, and the operational changes needed to return a business to a sustainable footing. Restructuring situations are sensitive and time-critical; we bring a calm, structured process and the credibility to negotiate constructively with all parties around the table. If the immediate worry is a loan instalment the cash flow no longer covers, that is exactly the conversation to bring to us early.',
     ],
     scope: [
       'Financial & operational restructuring',
@@ -69,7 +69,7 @@ export const services: Service[] = [
       'Project, structured and growth financing across equity and debt.',
     body: [
       'We help companies raise the capital they need to grow, invest or refinance — across equity, debt and structured instruments. Engagements begin with the right capital structure for your objectives and risk profile, then move to preparing the business for investors or lenders, identifying the appropriate sources of capital, and running a process that secures competitive terms.',
-      'Our corporate finance work includes support with project financing and structured financing, growth-equity and debt raising, and refinancing of existing facilities. We introduce our clients to a network of regional and international investors, family offices, banks and alternative lenders, and we manage the process — from information materials through to negotiation and completion — so that management can stay focused on running the business.',
+      'Our corporate finance work includes support with project financing and structured financing, growth-equity and debt raising, and refinancing of existing facilities. We introduce our clients to a network of regional and international investors, family offices, banks and alternative lenders, and we manage the process — from information materials through to negotiation and completion — so that management can stay focused on running the business. If you have been searching for an investor for your business, this is the work that makes that search succeed.',
     ],
     scope: [
       'Equity & debt raising',

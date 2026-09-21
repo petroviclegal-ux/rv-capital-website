@@ -72,6 +72,20 @@ Conversely, customer concentration, opaque accounts, owner dependence and unreso
 - **Ignoring the structure.** Earn-outs, deferred consideration and warranties change the real value of a deal well beyond the headline price.
 - **Emotional valuation.** The effort you have put in is real, but buyers pay for future returns, not past sacrifice.
 
+## Frequently asked questions
+
+### What are the main business valuation methods?
+
+Three families: discounted cash flow (value from the business's own future cash), market multiples (value from what comparable companies trade or sell for), and asset-based valuation (net value of assets minus liabilities). Credible valuations triangulate at least two of them rather than relying on one number.
+
+### What is the best way to value a small business?
+
+For an owner-operated business, a multiple of seller's discretionary earnings (profit plus the owner's compensation) cross-checked against asset value is the practical standard. DCF adds little where cash flows depend heavily on one person. The working ranges are in [how much is my business worth](/insights/how-much-is-my-business-worth-uae/).
+
+### What is the difference between enterprise value and equity value?
+
+Enterprise value is what the business's operations are worth, however they are financed. Equity value is what the owner actually receives: enterprise value minus debt, plus surplus cash, adjusted for working capital at completion. Two deals with the same enterprise value can put very different amounts in the seller's account.
+
 ## The takeaway
 
 A credible valuation blends several methods, reflects who the likely buyers are, and stands up to scrutiny in due diligence. It is the foundation of a confident negotiation. RV Capital prepares defensible valuations for owners across the UAE and GCC as the starting point of a sale or a [capital raise](/insights/find-an-investor-for-your-business-uae/) — [talk to us](/contact/) about your business.

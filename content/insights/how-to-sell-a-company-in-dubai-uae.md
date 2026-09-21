@@ -73,6 +73,24 @@ At completion, conditions are satisfied, funds are transferred, and ownership pa
 
 A typical sell-side process in the UAE runs **six to twelve months** from mandate to completion, though timing varies with size, complexity, the number of buyers and the approvals required. Preparation before launch is the biggest lever on speed; if your circumstances demand a shorter timetable, see our guide on [selling a business fast](/insights/sell-my-business-fast-uae/).
 
+## Frequently asked questions
+
+### I want to sell my business in Dubai. Where do I start?
+
+Start before any buyer conversation: clarify why you are selling and what success means, get the financials and corporate documents in order, and establish a defensible value range. Those three steps, described above, determine most of the eventual outcome. Only then approach the market, confidentially and ideally through an advisor who can create competition.
+
+### How long does it take to sell a company in the UAE?
+
+Six to twelve months from mandate to completion is typical. A prepared company with a realistic price and an obvious buyer group can compress this to three to four months; our guide on [selling a business fast](/insights/sell-my-business-fast-uae/) covers what that takes.
+
+### How much is my business worth?
+
+Most established private companies change hands at a multiple of sustainable profit, with the multiple driven by size, growth, customer spread and the quality of the books. The working numbers and a worked example in dirhams are in [how much is my business worth](/insights/how-much-is-my-business-worth-uae/).
+
+### Can I sell my company without employees and customers finding out?
+
+Yes, and a well-run process is built for exactly that: anonymous teasers, NDAs before any information is shared, and disclosure staged as buyers qualify. Confidentiality holds until you choose to announce; the mechanics are covered in [how NDAs protect you](/insights/confidentiality-when-selling-a-business-nda/).
+
 ## The takeaway
 
 Selling well is a managed process, not an event. Owners who prepare early, establish a defensible valuation, run a competitive and confidential process, and negotiate the fine print carefully consistently achieve better outcomes. If you are considering a sale, RV Capital advises owners across the UAE and GCC on exactly this journey — [start a confidential conversation](/contact/).

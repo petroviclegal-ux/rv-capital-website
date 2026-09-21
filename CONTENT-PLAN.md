@@ -89,7 +89,7 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
   means in the UAE; selling a company with debt (very underserved query). Links to
   `prepare-company-for-sale-timeline` and `cost-to-sell-a-business-uae`.
 
-## Strengthen what exists (same commits, low effort)
+## Strengthen what exists (same commits, low effort) ✅ all three items done Sep 2026
 
 - Add exact-phrase FAQ sections to: `how-to-sell-a-company-in-dubai-uae` ("I want
   to sell my business in Dubai — where do I start?"), `business-valuation-methods-uae`,
