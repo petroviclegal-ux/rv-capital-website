@@ -89,6 +89,18 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
   means in the UAE; selling a company with debt (very underserved query). Links to
   `prepare-company-for-sale-timeline` and `cost-to-sell-a-business-uae`.
 
+## Round 2 backlog (added Sep 2026, after the first seven published)
+
+- ~~`business-valuation-services-uae`~~ ✅ published Sep 2026 — commercial-intent queries
+  "business valuation services uae", "business valuation companies in uae" (confirmed
+  autocomplete); formal report vs market view, providers, cost drivers, how to choose.
+- `how-to-value-a-startup-vs-established-business` — backlog item from SEO-ACTION-PLAN.
+- `healthcare-ma-uae` — first sector deep-dive (clinics, groups, consolidation wave).
+- `business-exit-strategy` — confirmed autocomplete "exit strategy business plan";
+  owner-language planning piece feeding sell-side.
+- Refresh cycle: once Search Console shows queries at positions 5–20, refreshing those
+  articles takes priority over new topics (see Measurement loop below).
+
 ## Strengthen what exists (same commits, low effort) ✅ all three items done Sep 2026
 
 - Add exact-phrase FAQ sections to: `how-to-sell-a-company-in-dubai-uae` ("I want

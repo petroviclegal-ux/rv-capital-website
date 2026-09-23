@@ -61,7 +61,7 @@ Typing "business valuation calculator" gives you tools that multiply your profit
 - A calculator cannot see customer concentration, dependence on the owner, the state of the books, or whether the trade licence and premises transfer cleanly. These factors routinely move value by 30% or more in either direction.
 - Calculators produce one number. Buyers pay within a range, and the position in the range is negotiated on evidence.
 
-A calculator is fine for a first orientation. Treat its output as plus or minus half, and do the normalisation exercise above before you rely on anything.
+A calculator is fine for a first orientation. Treat its output as plus or minus half, and do the normalisation exercise above before you rely on anything. And when the number has to stand up before a counterparty, an auditor or a court, see our guide to [business valuation services in the UAE](/insights/business-valuation-services-uae/) for which product your situation needs.
 
 ## What moves the number up or down
 
