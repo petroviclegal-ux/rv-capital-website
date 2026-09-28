@@ -32,7 +32,7 @@ The other decision to make first: debt or equity. Money from an investor is perm
 - **Family offices.** The investment arms of wealthy families, regional and international. Increasingly active in direct investments into private companies in the UAE, with patient capital and sector preferences. Professional in negotiation, relationship-driven in sourcing.
 - **Private equity and growth funds.** Institutional money for established, profitable companies, typically wanting meaningful stakes, board influence and a defined exit within roughly five years. They bring discipline and follow-on capital, and they price hard.
 - **Strategic investors.** Companies in your industry or an adjacent one, investing for commercial reasons: market access, capability, supply security. Often the highest-paying investor, because the stake is worth more to them than to a purely financial buyer. A strategic minority investment is frequently the first step toward a full acquisition later.
-- **Venture capital.** Relevant only for technology companies with fast, scalable growth. A profitable conventional SME is outside their model, whatever the pitch platforms suggest.
+- **Venture capital.** Relevant only for technology companies with fast, scalable growth. A profitable conventional SME is outside their model, whatever the pitch platforms suggest; the difference in how the two are priced is covered in [valuing a startup vs. an established business](/insights/how-to-value-a-startup-vs-established-business/).
 
 Which of these fits depends mostly on your size and sector. As a rough rule: below roughly AED 5m of annual profit the realistic pool is banks, private investors and strategics; above it, family offices and funds enter the picture.
 

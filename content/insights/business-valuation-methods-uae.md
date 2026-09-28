@@ -27,7 +27,7 @@ DCF values a business on the cash it is expected to generate in the future, disc
 - **Strengths:** it is grounded in the fundamentals of the business rather than market sentiment, and it forces a rigorous look at the drivers of future performance.
 - **Weaknesses:** it is highly sensitive to assumptions. Small changes in the growth rate, margins or discount rate can swing the answer materially — which is why DCF is best used alongside market-based checks.
 
-DCF is especially useful for businesses with predictable cash flows and for testing whether a market-based valuation is realistic.
+DCF is especially useful for businesses with predictable cash flows and for testing whether a market-based valuation is realistic. For young companies without that predictability, a different toolbox applies; see [how to value a startup vs. an established business](/insights/how-to-value-a-startup-vs-established-business/).
 
 ## Method 2: Market multiples (comparable companies and transactions)
 
