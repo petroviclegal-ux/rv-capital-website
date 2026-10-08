@@ -39,7 +39,7 @@ There is no public register of private transaction prices in the UAE, so any tab
 | Owner-run business, profit under AED 2m | SDE | 2.0x to 3.5x |
 | Established SME, EBITDA of AED 2m to 10m | EBITDA | 3.5x to 5.5x |
 | Mid-market company, EBITDA above AED 10m, professional management | EBITDA | 5x to 8x |
-| Strong recurring revenue (software, healthcare, education) | EBITDA, sometimes revenue | premiums above the ranges here |
+| Strong recurring revenue (software, [healthcare](/insights/healthcare-ma-uae/), education) | EBITDA, sometimes revenue | premiums above the ranges here |
 
 Individual companies price outside these bands in both directions. A logistics business with one dominant customer can struggle to reach the bottom of its band; a clinic group with waiting lists and three locations can clear the top of it. Asset-heavy businesses (real estate holding, heavy equipment) are often valued on their assets rather than their profits.
 

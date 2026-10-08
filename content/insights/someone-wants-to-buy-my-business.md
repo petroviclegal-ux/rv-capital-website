@@ -23,7 +23,7 @@ Start by working out who is actually on the other side. Approaches come in a few
 
 - **A strategic buyer.** A competitor, supplier or company in an adjacent market. They usually know your business from the outside, they have a concrete reason to buy, and they can often pay the most, because your company is worth more combined with theirs.
 - **A financial buyer.** A private equity firm, family office or individual investor. They buy for returns, they run disciplined processes, and their first offer is a starting position, never a ceiling.
-- **An aggregator or serial acquirer.** Groups that buy many companies in one sector. Professional, fast, and very experienced at buying from first-time sellers. That experience gap is worth respecting.
+- **An aggregator or serial acquirer.** Groups that buy many companies in one sector. Professional, fast, and very experienced at buying from first-time sellers. That experience gap is worth respecting. [Healthcare](/insights/healthcare-ma-uae/) is the classic UAE example of a sector being bought this way.
 - **A broker fishing for mandates.** Some "buyers" are intermediaries with no client behind them, writing to hundreds of owners to generate leads. A real buyer can say who they are, why your company, and how they would fund it. Ask early.
 
 A credible approach also tells you something useful even if you never sell: your company is visible and attractive in its market. That information alone is worth having.

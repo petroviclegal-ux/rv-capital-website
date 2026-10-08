@@ -95,7 +95,7 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
   "business valuation services uae", "business valuation companies in uae" (confirmed
   autocomplete); formal report vs market view, providers, cost drivers, how to choose.
 - ~~`how-to-value-a-startup-vs-established-business`~~ ✅ published Sep 2026
-- `healthcare-ma-uae` — first sector deep-dive (clinics, groups, consolidation wave).
+- ~~`healthcare-ma-uae`~~ ✅ published Oct 2026
 - `business-exit-strategy` — confirmed autocomplete "exit strategy business plan";
   owner-language planning piece feeding sell-side.
 - Refresh cycle: once Search Console shows queries at positions 5–20, refreshing those
