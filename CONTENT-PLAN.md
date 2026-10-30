@@ -96,8 +96,14 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
   autocomplete); formal report vs market view, providers, cost drivers, how to choose.
 - ~~`how-to-value-a-startup-vs-established-business`~~ ✅ published Sep 2026
 - ~~`healthcare-ma-uae`~~ ✅ published Oct 2026
-- `business-exit-strategy` — confirmed autocomplete "exit strategy business plan";
-  owner-language planning piece feeding sell-side.
+- ~~`business-exit-strategy-uae`~~ ✅ published Oct 2026 — confirmed autocomplete
+  "exit strategy business plan"; owner-language planning piece feeding sell-side.
+
+Round 2 complete. Next: check Search Console for queries at positions 5-20 and
+refresh those articles before adding topics (see Measurement loop). Candidate
+round 3 topics if data is thin: real-estate platform deals, energy-transition
+financing GCC (both from SEO-ACTION-PLAN), "how to sell a restaurant in Dubai"
+(sector, owner-language), "due diligence when selling" (sell-side DD prep).
 - Refresh cycle: once Search Console shows queries at positions 5–20, refreshing those
   articles takes priority over new topics (see Measurement loop below).
 

@@ -14,7 +14,7 @@ relatedServices:
   - ma-advisory
 ---
 
-Ask most owners when they plan to sell and the answer is "someday". Ask sellers after the fact what they would change, and a striking number say the same thing: *the timing*. Businesses are too often sold when the owner is exhausted, the market has cooled, or an unexpected event forces the issue — the three worst moments to negotiate. The best exits, by contrast, are chosen. Here are the signs that the window may be open.
+Ask most owners when they plan to sell and the answer is "someday". Ask sellers after the fact what they would change, and a striking number say the same thing: *the timing*. Businesses are too often sold when the owner is exhausted, the market has cooled, or an unexpected event forces the issue — the three worst moments to negotiate. The best exits, by contrast, are chosen, and usually planned years ahead; our guide to [building a business exit strategy](/insights/business-exit-strategy-uae/) covers that planning. Here are the signs that the window may be open.
 
 ## Why timing matters more than most owners think
 
