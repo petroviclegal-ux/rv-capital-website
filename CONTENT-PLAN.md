@@ -102,8 +102,9 @@ Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in
 Round 2 complete. Next: check Search Console for queries at positions 5-20 and
 refresh those articles before adding topics (see Measurement loop). Candidate
 round 3 topics if data is thin: real-estate platform deals, energy-transition
-financing GCC (both from SEO-ACTION-PLAN), "how to sell a restaurant in Dubai"
-(sector, owner-language), "due diligence when selling" (sell-side DD prep).
+financing GCC (both from SEO-ACTION-PLAN), ~~"how to sell a restaurant in Dubai"~~ ✅ published
+Nov 2026 (`how-to-sell-a-restaurant-in-dubai`), "due diligence when selling"
+(sell-side DD prep).
 - Refresh cycle: once Search Console shows queries at positions 5–20, refreshing those
   articles takes priority over new topics (see Measurement loop below).
 

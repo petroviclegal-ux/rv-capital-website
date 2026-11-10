@@ -16,7 +16,7 @@ relatedServices:
   - market-research-due-diligence
 ---
 
-Search for businesses for sale in Dubai and the portals deliver: cafes, salons, trading licences, cleaning companies, e-commerce stores, the occasional clinic or factory, at asking prices from fifty thousand dirhams to fifty million. What the portals do not deliver is the part that decides whether the purchase makes you money: how to tell a genuine opportunity from a problem wearing a price tag, what the listing leaves out, and how ownership actually changes hands in Dubai. This guide covers the journey from browsing to closing, and the point at which serious buyers stop browsing altogether.
+Search for businesses for sale in Dubai and the portals deliver: [cafes and restaurants](/insights/how-to-sell-a-restaurant-in-dubai/), salons, trading licences, cleaning companies, e-commerce stores, the occasional clinic or factory, at asking prices from fifty thousand dirhams to fifty million. What the portals do not deliver is the part that decides whether the purchase makes you money: how to tell a genuine opportunity from a problem wearing a price tag, what the listing leaves out, and how ownership actually changes hands in Dubai. This guide covers the journey from browsing to closing, and the point at which serious buyers stop browsing altogether.
 
 ## Where businesses are actually for sale
 

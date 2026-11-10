@@ -20,7 +20,7 @@ Owners who need to sell fast usually have a real reason: health, a partnership t
 
 ## What "fast" realistically means
 
-A well-run company sale in the UAE takes six to twelve months from decision to money in the bank; the stages are described in [how to sell a company in the UAE](/insights/how-to-sell-a-company-in-dubai-uae/). A genuinely compressed process can close in **three to four months** when three conditions hold: the documents are ready before buyers are approached, the price expectation is realistic from day one, and there is an obvious, reachable buyer group. Faster than that means one of two things: a very small business changing hands informally, or a distressed sale at a price that reflects the distress. Anyone promising a market price in a few weeks is describing a transaction that does not exist.
+A well-run company sale in the UAE takes six to twelve months from decision to money in the bank; the stages are described in [how to sell a company in the UAE](/insights/how-to-sell-a-company-in-dubai-uae/). A genuinely compressed process can close in **three to four months** when three conditions hold: the documents are ready before buyers are approached, the price expectation is realistic from day one, and there is an obvious, reachable buyer group. Faster than that means one of two things: a very small business changing hands informally, or a distressed sale at a price that reflects the distress. Some sectors also have their own fast lane with its own rules, as with [restaurant and venue sales](/insights/how-to-sell-a-restaurant-in-dubai/). Anyone promising a market price in a few weeks is describing a transaction that does not exist.
 
 ## The speed levers that do not destroy price
 
