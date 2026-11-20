@@ -20,7 +20,7 @@ export function organizationSchema() {
     alternateName: site.name,
     url: site.url,
     logo: absoluteUrl('/icon.svg'),
-    image: absoluteUrl('/og/og-default.svg'),
+    image: absoluteUrl('/og/og-default.png'),
     description: site.description,
     address: {
       '@type': 'PostalAddress',
@@ -41,7 +41,7 @@ export function professionalServiceSchema() {
     '@id': `${site.url}/#service`,
     name: site.legalName,
     url: site.url,
-    image: absoluteUrl('/og/og-default.svg'),
+    image: absoluteUrl('/og/og-default.png'),
     description:
       'Independent M&A, corporate finance and advisory services for companies, shareholders and investors in the UAE, the GCC and internationally.',
     areaServed: [

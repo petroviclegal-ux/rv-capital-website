@@ -38,6 +38,8 @@ export async function generateMetadata({
     type: 'article',
     publishedTime: article.date,
     keywords: article.keywords,
+    // Use the article's own photo for link previews; falls back to the default OG.
+    ogImage: article.image,
   });
 }
 

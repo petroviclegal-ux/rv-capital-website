@@ -7,8 +7,8 @@ import { services } from '@/lib/services';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date().toISOString();
-
+  // Static and service pages carry no lastModified: bumping them on every build
+  // teaches crawlers the dates are meaningless. Articles use their real dates.
   const staticPaths = [
     { path: '/', priority: 1.0, changeFrequency: 'monthly' as const },
     { path: '/about/', priority: 0.8, changeFrequency: 'yearly' as const },
@@ -21,14 +21,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticEntries: MetadataRoute.Sitemap = staticPaths.map((p) => ({
     url: new URL(p.path, SITE_URL).toString(),
-    lastModified: now,
     changeFrequency: p.changeFrequency,
     priority: p.priority,
   }));
 
   const serviceEntries: MetadataRoute.Sitemap = services.map((s) => ({
     url: new URL(`/services/${s.slug}/`, SITE_URL).toString(),
-    lastModified: now,
     changeFrequency: 'monthly',
     priority: 0.85,
   }));

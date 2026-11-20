@@ -13,7 +13,9 @@ type PageSeoInput = {
   keywords?: string[];
 };
 
-const DEFAULT_OG = '/og/og-default.svg';
+// A raster 1200x630 image: social platforms and messengers do not render SVG
+// link previews, so the OG image must stay PNG/JPG.
+const DEFAULT_OG = '/og/og-default.png';
 
 /**
  * Build a complete, unique Metadata object for a page: title, description,
