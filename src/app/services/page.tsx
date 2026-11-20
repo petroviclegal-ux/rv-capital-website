@@ -89,12 +89,12 @@ export default function ServicesPage() {
                     </ul>
                   </Reveal>
 
+                  {/* Overview shows only the first paragraph; the full copy lives on
+                      the service's own page so the two don't compete as duplicates. */}
                   <Reveal delay={100} className="space-y-5">
-                    {service.body.map((para, idx) => (
-                      <p key={idx} className="leading-relaxed text-ink/80 sm:text-[1.0625rem]">
-                        {para}
-                      </p>
-                    ))}
+                    <p className="leading-relaxed text-ink/80 sm:text-[1.0625rem]">
+                      {service.body[0]}
+                    </p>
                     <div className="flex flex-wrap items-center gap-6 pt-2">
                       <CTALink href="/contact/" variant="ghost">
                         Discuss {service.title.toLowerCase()}
