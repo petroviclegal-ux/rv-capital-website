@@ -11,6 +11,19 @@ and service pages; articles win the long tail and feed authority to the money pa
 Works together with `SEO-ACTION-PLAN.md` (off-site: GBP, Search Console, citations,
 backlinks). Articles alone will not rank the head terms — do both tracks.
 
+## After every publish: ping IndexNow
+
+The site serves an IndexNow key at `/8c35ee0a4eeea03c3399629db7d28e60.txt`. After a
+new article deploys, submit its URL (plus any edited pages) so Bing, DuckDuckGo and
+Yahoo index it immediately:
+
+```
+curl -s -X POST https://api.indexnow.org/indexnow -H "Content-Type: application/json" \
+  -d '{"host":"rvcap.ae","key":"8c35ee0a4eeea03c3399629db7d28e60","keyLocation":"https://rvcap.ae/8c35ee0a4eeea03c3399629db7d28e60.txt","urlList":["https://rvcap.ae/insights/<slug>/"]}'
+```
+
+Google does not use IndexNow; its equivalent is Search Console "Request indexing".
+
 ## How to use this plan
 
 Publish top-to-bottom, 1–2 articles per month (drop a Markdown file in

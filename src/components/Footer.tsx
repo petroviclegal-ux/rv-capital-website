@@ -17,7 +17,7 @@ export function Footer() {
   return (
     <footer className="bg-ink text-bone/80">
       <Container className="py-16">
-        <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-5">
           <div className="lg:col-span-1">
             <Logo variant="light" />
             <p className="mt-6 max-w-xs text-sm leading-relaxed text-bone/60">
@@ -53,6 +53,29 @@ export function Footer() {
                     className="text-bone/70 transition-colors hover:text-bone"
                   >
                     {s.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </nav>
+
+          {/* Site-wide links to the cornerstone guides keep them crawl-priority
+              pages, not leaves three clicks deep. */}
+          <nav aria-label="Footer — guides">
+            <h2 className="text-xs font-sans uppercase tracking-[0.24em] text-brass">
+              Guides
+            </h2>
+            <ul className="mt-5 space-y-3 text-sm">
+              {[
+                ['/insights/how-much-is-my-business-worth-uae/', 'What is my business worth?'],
+                ['/insights/how-to-sell-a-company-in-dubai-uae/', 'Selling a company in the UAE'],
+                ['/insights/someone-wants-to-buy-my-business/', 'Got an offer for your business?'],
+                ['/insights/find-an-investor-for-your-business-uae/', 'Finding an investor'],
+                ['/insights/debt-restructuring-uae/', 'Debt restructuring'],
+              ].map(([href, label]) => (
+                <li key={href}>
+                  <Link href={href} className="text-bone/70 transition-colors hover:text-bone">
+                    {label}
                   </Link>
                 </li>
               ))}
