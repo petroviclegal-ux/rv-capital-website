@@ -52,6 +52,24 @@ Independence means the advice you receive is genuinely in your interest — not 
 
 Beyond the answers, pay attention to fit. You will work closely with your advisor through a demanding, high-stakes process, often for the better part of a year. Do they listen to your objectives? Are they candid, including about where they *can't* help? Do you trust their judgement under pressure? Technical competence is necessary, but trust is what carries a deal through its hardest moments.
 
+## Frequently asked questions
+
+### How do I choose an M&A advisor?
+
+On evidence rather than presentation: deals actually closed in your size range and sector, the seniority of the people who will run your mandate day to day, a documented process for creating buyer competition, and fees aligned with your outcome. The eight questions above walk through each of these in order.
+
+### What should I ask an M&A advisor before hiring one?
+
+Who exactly will work on my transaction, which comparable deals have you closed, how will you reach buyers beyond your existing contacts, how do you build the valuation, what are the full fees including the retainer, and how do you protect confidentiality during marketing. The answers separate firms that run processes from firms that make introductions.
+
+### How much does an M&A advisor cost in Dubai?
+
+Usually a modest monthly retainer plus a success fee as a percentage of the transaction value, payable on completion, so most of the cost arrives only if the deal does. The percentages scale down as deal size grows. The full breakdown is in [what it costs to sell a business](/insights/cost-to-sell-a-business-uae/).
+
+### Is a big-name firm better than a boutique for selling my company?
+
+Size matters less than attention and fit. Large firms carry brand weight on large transactions; for most private company sales, what moves the result is senior people personally running the process and real access to the right buyers, which well-connected boutiques routinely match or beat. Judge the team in the room, not the logo on the proposal.
+
 ## The takeaway
 
 Choose an M&A advisor the way you would choose any critical partner: on relevant experience, senior involvement, a rigorous process, honest valuation, real buyer access, transparent fees, watertight confidentiality, and genuine independence — plus the trust to work together under pressure. Ask the eight questions above and the right choice usually becomes clear. RV Capital would welcome those questions from you. [Start a confidential conversation](/contact/).
